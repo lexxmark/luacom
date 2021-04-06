@@ -1,5 +1,7 @@
 version: 1.5.{build}
 
+image: Visual Studio 2019
+
 environment:
   matrix:
   - LUA: "lua 5.1"
